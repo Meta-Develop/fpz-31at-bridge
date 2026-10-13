@@ -1,0 +1,20 @@
+{
+  "description": "SHA256 of original bridge source and tests recovered on 2026-10-13; copied without source changes.",
+  "analysis_date": "2026-09-16",
+  "files": {
+    "fpz_candle/__init__.py": "3c0f3877d8528939ed5086f3e7c6a6478015ed82137578569a7632d6c50002bc",
+    "fpz_candle/__main__.py": "a8b0c55d4c696da519d425e6277db7b0161a298cdd27721c2ae06213f760b28a",
+    "fpz_candle/backend.py": "cd42304385e6830eb7fe44a946f7839622b3a64ae7142d90787220e38d66e60f",
+    "fpz_candle/fpz_motion.py": "6966cff2766b0b3c57b8e7566820d53a87803531c871788e562afe228fa1fbc4",
+    "fpz_candle/fpz_protocol.py": "7dff7cfaaf4f09dc9518fa2542e208ee4128589b1251dda25c9b9b49c55c1661",
+    "fpz_candle/gcode.py": "77c7ee14b333e5eb256cc274e70e1435f7785a0e8d5ff076435b592b1dbc9a04",
+    "fpz_candle/grbl.py": "2cb5fad780dd7c4f625153ff02e2212ae81542eed276db7d842b87543cab1dc6",
+    "fpz_candle/model.py": "032def22df0c0c7420823d5fbb14d81fdd9e09e7e94d9b37aeabde7c3aef613b",
+    "fpz_candle/runtime.py": "c1007310553f100b5e85f526b7626f50e08556b45e31b9de86c40a7d34a3bfc9",
+    "fpz_candle/transport.py": "9c8fc94aa3bf5eb997477491bfd645c1b4516b64f6f12e193176f5d380c9eb65",
+    "tests/test_bridge.py": "970fed6734bba14b38f64860f7cf5e4b5a655e786eb342df8bbfee8bc3e2b887",
+    "tests/test_fpz_motion.py": "20358c1f48fb076c8d807c214309ca7dc756e6dcdfeec0119acf3d8dd6e990a7",
+    "tests/test_fpz_protocol.py": "1da9506493a40692c59b6442847e8fcb0b0582028421f418d18a804e80ab4663",
+    "tests/test_runtime.py": "ed5c042d0c000c4358bf3ee0035995cd8cdccc62b7bf4d51ca60fd22e42db857"
+  }
+}
