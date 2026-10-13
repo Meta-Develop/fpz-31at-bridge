@@ -1,0 +1,62 @@
+{
+  "environment": "OFFLINE SYNTHETIC DEVICE; NOT HARDWARE PROOF",
+  "source_exe_sha256": "6262a148be022f5858b9a78bf34407b1ee541cc0401d666b5593ff6a032781c2",
+  "runtime_axis_scales": {
+    "event": "runtime-scales",
+    "x": 0.00635,
+    "y": 0.00635,
+    "z": 0.00635
+  },
+  "gui_mm_to_xy_counts": {
+    "RIGHT_1mm": [
+      157,
+      0
+    ],
+    "LEFT_1mm": [
+      -157,
+      0
+    ],
+    "BACK_1mm": [
+      0,
+      -157
+    ],
+    "FRONT_1mm": [
+      0,
+      157
+    ]
+  },
+  "observed_gui_speed_mm_sec_to_S": {
+    "2.5": 2,
+    "5.5": 5,
+    "7.9": 7
+  },
+  "gui_depth_change_mm": [
+    0.1,
+    0.2
+  ],
+  "preset2_count_delta": 15,
+  "Z_down_sequence": [
+    "P1\r",
+    "P2\r",
+    "W 1\r",
+    "S 2\r",
+    "C\r"
+  ],
+  "Z_up_sequence": [
+    "P0\r",
+    "W 1\r",
+    "S 5\r",
+    "C\r"
+  ],
+  "to_initial_sequence": [
+    "O3\r",
+    "O0\r",
+    "C\r"
+  ],
+  "synthetic_C_reply_hex": "46",
+  "RP_transaction_captured": false,
+  "spindle_R0_captured": false,
+  "arbitrary_Gcode_Z_mapping_proven": false,
+  "mill_speed_3_9_capture": "UI confirmation pending; zero writes; not proved",
+  "per_action_slices_match_master_log": true
+}
